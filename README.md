@@ -76,8 +76,8 @@ Digital logic and computer architecture projects implemented using simulation an
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+- GitHub: https://github.com/yehia-casper-0-0
+- LinkedIn: https://www.linkedin.com/in/yehia-atef-b62110207/
 - Email: yehiaatef0106@gmail.com
 
 ---
